@@ -1,0 +1,25 @@
+{
+  "name": "jcarousel_example",
+  "version": "1.0.0",
+  "description": "An example of customizing jcarousel so slides move at different speeds",
+  "main": "index.html",
+  "scripts": {
+    "postinstall": "bower install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessamynsmith/jcarousel-example.git"
+  },
+  "keywords": [
+    "jcarousel",
+    "slider",
+    "example"
+  ],
+  "author": "Jessamyn Smith <jessamyn.smith@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jessamynsmith/jcarousel-example/issues"
+  },
+  "homepage": "https://jcarousel-example.herokuapp.com"
+}
