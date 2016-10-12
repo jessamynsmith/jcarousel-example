@@ -11,5 +11,5 @@ You can see the example running on heroku here: [https://jcarousel-example.herok
 
     Create heroku app
     
-    heroku buildpacks:add https://github.com/hone/heroku-buildpack-static.git
-    heroku buildpacks:add heroku/nodejs
+    heroku buildpacks:add heroku/nodejs --index 1
+    heroku buildpacks:add https://github.com/hone/heroku-buildpack-static.git --index 2
